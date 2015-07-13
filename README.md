@@ -1,1 +1,1 @@
-# ProbabilityDistributions
+# ProbabPy
