@@ -59,3 +59,8 @@ target/
 # JetBrains IntelliJ IDEA
 *.iml
 .idea/
+
+# Icon files
+Icon^M^M
+Icon\r\r
+Icon*
