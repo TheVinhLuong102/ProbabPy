@@ -2,9 +2,9 @@ from __future__ import division, print_function
 from CompyledFunc import CompyledFunc
 from copy import deepcopy
 from frozendict import frozendict
-from HelpyFun.SymPy import is_non_atomic_sympy_expr, sympy_xreplace
-from HelpyFun.Dicts import combine_dict_and_kwargs, merge_dicts_ignoring_dup_keys_and_none_values
-from HelpyFun.zzz import shift_time_subscripts
+from HelpyFuncs.SymPy import is_non_atomic_sympy_expr, sympy_xreplace
+from HelpyFuncs.Dicts import combine_dict_and_kwargs, merge_dicts_ignoring_dup_keys_and_none_values
+from HelpyFuncs.zzz import shift_time_subscripts
 from itertools import product
 from MathDict import exp as exp_math_dict, MathDict
 from MathFunc import MathFunc
